@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: html-config
+data:
+  index.html:
+    <html>
+      <body>
+        <h1>Hola desde un volumen en kubernetes!</h1>
+      </body>
+    </html>
