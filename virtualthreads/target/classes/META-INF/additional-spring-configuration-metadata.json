@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "server.tomcat.virtual-threads-enabled",
+      "type": "java.lang.String",
+      "description": "Description for server.tomcat.virtual-threads-enabled."
+  }
+] }
