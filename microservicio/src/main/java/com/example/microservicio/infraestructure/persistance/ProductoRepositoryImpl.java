@@ -1,4 +1,4 @@
-package com.example.microservicio.infrastructure.persistence;
+package com.example.microservicio.infraestructure.persistance;
 
 import com.example.microservicio.domain.model.Producto;
 import com.example.microservicio.domain.repository.ProductoRepository;

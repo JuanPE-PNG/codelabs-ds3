@@ -13,7 +13,7 @@ public class Producto {
     private String nombre;
     private BigDecimal precio;
 
-    public Producto() {} //     Constructor vacío requerido por JPA
+    public Producto() {} // Constructor vacío requerido por JPA
 
     public Producto(String nombre, BigDecimal precio) {
         this.nombre = nombre;
